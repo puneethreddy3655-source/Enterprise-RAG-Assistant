@@ -1,0 +1,25 @@
+COMPANY: TechNova Solutions
+DEPARTMENT: Finance
+DOCUMENT: Employee Travel Reimbursement Policy
+
+1. Travel Reimbursement
+
+Employees can claim reimbursement
+for approved business travel expenses.
+
+2. Hotel Accommodation
+
+Hotel expenses must be supported
+by original invoices.
+
+3. Meal Allowance
+
+Employees are eligible for a meal
+allowance of Rs. 800 per day
+during approved business travel.
+
+4. Claim Submission
+
+Travel reimbursement claims must
+be submitted within 15 days
+of completing the business trip.

@@ -1,0 +1,28 @@
+
+[
+    {
+        "question": "How can I reset my company password?",
+        "expected_sources": ["it_support_policy.txt"],
+        "expected_answer": "Employees must contact the IT helpdesk."
+    },
+    {
+        "question": "What are the IT helpdesk working hours?",
+        "expected_sources": ["it_support_policy.txt"],
+        "expected_answer": "9 AM to 6 PM, Monday to Friday."
+    },
+    {
+        "question": "What is the daily meal allowance for business travel?",
+        "expected_sources": ["travel_policy.txt"],
+        "expected_answer": "Rs. 800 per day."
+    },
+    {
+        "question": "When should I submit my travel reimbursement claim?",
+        "expected_sources": ["travel_policy.txt"],
+        "expected_answer": "Within 15 days of completing the business trip."
+    },
+    {
+        "question": "What is the company's international relocation policy?",
+        "expected_sources": [],
+        "expected_answer": "Information is not available in the company documents."
+    }
+]

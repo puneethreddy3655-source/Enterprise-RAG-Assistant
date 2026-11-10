@@ -1,0 +1,132 @@
+[
+    {
+        "text": "COMPANY: TechNova Solutions\nDEPARTMENT: Finance\nDOCUMENT: Employee Travel Reimbursement Policy\n\n1. Travel Reimbursement\n\nEmployees can claim reimbursement\nfor approved business travel expenses.\n\n2. Hotel Accommodation",
+        "metadata": {
+            "source": "travel_policy.txt",
+            "file_path": "data\\raw\\finance\\travel_policy.txt",
+            "department": "finance",
+            "file_type": ".txt",
+            "page": null,
+            "chunk_index": 0,
+            "chunk_id": "travel_policy.txt_None_0",
+            "chunk_size": 217
+        }
+    },
+    {
+        "text": "avel expenses.\n\n2. Hotel Accommodation\n\nHotel expenses must be supported\nby original invoices.\n\n3. Meal Allowance\n\nEmployees are eligible for a meal\nallowance of Rs. 800 per day\nduring approved business travel.\n\n4. Claim Submission",
+        "metadata": {
+            "source": "travel_policy.txt",
+            "file_path": "data\\raw\\finance\\travel_policy.txt",
+            "department": "finance",
+            "file_type": ".txt",
+            "page": null,
+            "chunk_index": 1,
+            "chunk_id": "travel_policy.txt_None_1",
+            "chunk_size": 231
+        }
+    },
+    {
+        "text": "business travel.\n\n4. Claim Submission\n\nTravel reimbursement claims must\nbe submitted within 15 days\nof completing the business trip.",
+        "metadata": {
+            "source": "travel_policy.txt",
+            "file_path": "data\\raw\\finance\\travel_policy.txt",
+            "department": "finance",
+            "file_type": ".txt",
+            "page": null,
+            "chunk_index": 2,
+            "chunk_id": "travel_policy.txt_None_2",
+            "chunk_size": 132
+        }
+    },
+    {
+        "text": "COMPANY: TechNova Solutions\nDEPARTMENT: Human Resources\nDOCUMENT: Employee Leave Policy\n\n1. Annual Leave\n\nAll permanent employees are entitled to\n24 days of annual paid leave per year.\n\n2. Sick Leave",
+        "metadata": {
+            "source": "leave_policy.txt",
+            "file_path": "data\\raw\\hr\\leave_policy.txt",
+            "department": "hr",
+            "file_type": ".txt",
+            "page": null,
+            "chunk_index": 0,
+            "chunk_id": "leave_policy.txt_None_0",
+            "chunk_size": 199
+        }
+    },
+    {
+        "text": "al paid leave per year.\n\n2. Sick Leave\n\nEmployees are entitled to 12 days of\npaid sick leave annually.\n\n3. Casual Leave\n\nEmployees can take 6 days of casual leave\nper calendar year.\n\n4. Leave Approval",
+        "metadata": {
+            "source": "leave_policy.txt",
+            "file_path": "data\\raw\\hr\\leave_policy.txt",
+            "department": "hr",
+            "file_type": ".txt",
+            "page": null,
+            "chunk_index": 1,
+            "chunk_id": "leave_policy.txt_None_1",
+            "chunk_size": 200
+        }
+    },
+    {
+        "text": "per calendar year.\n\n4. Leave Approval\n\nEmployees must submit leave requests\nthrough the HR portal.\n\nAnnual leave requests exceeding 5\nconsecutive working days require\napproval from the department manager.\n\n5. New Employees",
+        "metadata": {
+            "source": "leave_policy.txt",
+            "file_path": "data\\raw\\hr\\leave_policy.txt",
+            "department": "hr",
+            "file_type": ".txt",
+            "page": null,
+            "chunk_index": 2,
+            "chunk_id": "leave_policy.txt_None_2",
+            "chunk_size": 222
+        }
+    },
+    {
+        "text": "department manager.\n\n5. New Employees\n\nEmployees become eligible for annual\nleave after completing 30 days of service.",
+        "metadata": {
+            "source": "leave_policy.txt",
+            "file_path": "data\\raw\\hr\\leave_policy.txt",
+            "department": "hr",
+            "file_type": ".txt",
+            "page": null,
+            "chunk_index": 3,
+            "chunk_id": "leave_policy.txt_None_3",
+            "chunk_size": 118
+        }
+    },
+    {
+        "text": "COMPANY: TechNova Solutions\nDEPARTMENT: Information Technology\nDOCUMENT: IT Support Policy\n\n1. Password Reset\n\nEmployees who forget their company\npassword must contact the IT helpdesk.\n\n2. Laptop Replacement",
+        "metadata": {
+            "source": "it_support_policy.txt",
+            "file_path": "data\\raw\\it\\it_support_policy.txt",
+            "department": "it",
+            "file_type": ".txt",
+            "page": null,
+            "chunk_index": 0,
+            "chunk_id": "it_support_policy.txt_None_0",
+            "chunk_size": 207
+        }
+    },
+    {
+        "text": "he IT helpdesk.\n\n2. Laptop Replacement\n\nCompany laptops are replaced after\n4 years of usage, subject to approval\nfrom the IT department.\n\n3. Technical Support\n\nThe IT helpdesk operates from\n9 AM to 6 PM, Monday to Friday.\n\n4. Security",
+        "metadata": {
+            "source": "it_support_policy.txt",
+            "file_path": "data\\raw\\it\\it_support_policy.txt",
+            "department": "it",
+            "file_type": ".txt",
+            "page": null,
+            "chunk_index": 1,
+            "chunk_id": "it_support_policy.txt_None_1",
+            "chunk_size": 234
+        }
+    },
+    {
+        "text": "o 6 PM, Monday to Friday.\n\n4. Security\n\nEmployees must not share company\ncredentials with other employees.",
+        "metadata": {
+            "source": "it_support_policy.txt",
+            "file_path": "data\\raw\\it\\it_support_policy.txt",
+            "department": "it",
+            "file_type": ".txt",
+            "page": null,
+            "chunk_index": 2,
+            "chunk_id": "it_support_policy.txt_None_2",
+            "chunk_size": 106
+        }
+    }
+]

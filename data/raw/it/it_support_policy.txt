@@ -1,0 +1,24 @@
+COMPANY: TechNova Solutions
+DEPARTMENT: Information Technology
+DOCUMENT: IT Support Policy
+
+1. Password Reset
+
+Employees who forget their company
+password must contact the IT helpdesk.
+
+2. Laptop Replacement
+
+Company laptops are replaced after
+4 years of usage, subject to approval
+from the IT department.
+
+3. Technical Support
+
+The IT helpdesk operates from
+9 AM to 6 PM, Monday to Friday.
+
+4. Security
+
+Employees must not share company
+credentials with other employees.

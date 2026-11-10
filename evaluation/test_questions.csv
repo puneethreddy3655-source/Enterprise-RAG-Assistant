@@ -1,0 +1,9 @@
+question,expected_department,expected_source
+How many annual paid leave days are available?,hr,leave_policy.txt
+How do I apply for annual leave?,hr,leave_policy.txt
+How can I reset my company password?,it,it_support_policy.txt
+What are the IT helpdesk working hours?,it,it_support_policy.txt
+When can I get a replacement laptop?,it,it_support_policy.txt
+What is the daily meal allowance for business travel?,finance,travel_policy.txt
+When should I submit travel reimbursement claims?,finance,travel_policy.txt
+What documents are needed for hotel reimbursement?,finance,travel_policy.txt

@@ -1,0 +1,32 @@
+COMPANY: TechNova Solutions
+DEPARTMENT: Human Resources
+DOCUMENT: Employee Leave Policy
+
+1. Annual Leave
+
+All permanent employees are entitled to
+24 days of annual paid leave per year.
+
+2. Sick Leave
+
+Employees are entitled to 12 days of
+paid sick leave annually.
+
+3. Casual Leave
+
+Employees can take 6 days of casual leave
+per calendar year.
+
+4. Leave Approval
+
+Employees must submit leave requests
+through the HR portal.
+
+Annual leave requests exceeding 5
+consecutive working days require
+approval from the department manager.
+
+5. New Employees
+
+Employees become eligible for annual
+leave after completing 30 days of service.
